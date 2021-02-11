@@ -1,0 +1,14 @@
+C:\Users\MrSamafu\source\repos\Carburant\Carburant\bin\Debug\Carburant.exe.config
+C:\Users\MrSamafu\source\repos\Carburant\Carburant\bin\Debug\Carburant.exe
+C:\Users\MrSamafu\source\repos\Carburant\Carburant\bin\Debug\Carburant.pdb
+C:\Users\MrSamafu\source\repos\Carburant\Carburant\obj\Debug\Carburant.csprojAssemblyReference.cache
+C:\Users\MrSamafu\source\repos\Carburant\Carburant\obj\Debug\Carburant.ClavierNum.resources
+C:\Users\MrSamafu\source\repos\Carburant\Carburant\obj\Debug\Carburant.Form1.resources
+C:\Users\MrSamafu\source\repos\Carburant\Carburant\obj\Debug\Carburant.Form2.resources
+C:\Users\MrSamafu\source\repos\Carburant\Carburant\obj\Debug\Carburant.Properties.Resources.resources
+C:\Users\MrSamafu\source\repos\Carburant\Carburant\obj\Debug\Carburant.csproj.GenerateResource.cache
+C:\Users\MrSamafu\source\repos\Carburant\Carburant\obj\Debug\Carburant.csproj.CoreCompileInputs.cache
+C:\Users\MrSamafu\source\repos\Carburant\Carburant\obj\Debug\Carburant.exe
+C:\Users\MrSamafu\source\repos\Carburant\Carburant\obj\Debug\Carburant.pdb
+C:\Users\MrSamafu\source\repos\Carburant\Carburant\obj\Debug\Carburant.FuelSelection.resources
+C:\Users\MrSamafu\source\repos\Carburant\Carburant\obj\Debug\Carburant.TicketSelection.resources
